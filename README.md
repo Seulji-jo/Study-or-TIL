@@ -1,4 +1,4 @@
-# vue-study
+# Study-or-TIL
 
 ## Project setup
 ```
